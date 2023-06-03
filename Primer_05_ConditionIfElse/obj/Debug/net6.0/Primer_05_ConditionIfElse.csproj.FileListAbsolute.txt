@@ -1,0 +1,15 @@
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\bin\Debug\net6.0\Primer_05_ConditionIfElse.exe
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\bin\Debug\net6.0\Primer_05_ConditionIfElse.deps.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\bin\Debug\net6.0\Primer_05_ConditionIfElse.runtimeconfig.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\bin\Debug\net6.0\Primer_05_ConditionIfElse.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\bin\Debug\net6.0\Primer_05_ConditionIfElse.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\refint\Primer_05_ConditionIfElse.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\Primer_05_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_05_ConditionIfElse\obj\Debug\net6.0\ref\Primer_05_ConditionIfElse.dll
