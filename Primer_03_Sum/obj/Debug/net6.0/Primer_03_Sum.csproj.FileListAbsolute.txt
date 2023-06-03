@@ -1,0 +1,15 @@
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\bin\Debug\net6.0\Primer_03_Sum.exe
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\bin\Debug\net6.0\Primer_03_Sum.deps.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\bin\Debug\net6.0\Primer_03_Sum.runtimeconfig.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\bin\Debug\net6.0\Primer_03_Sum.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\bin\Debug\net6.0\Primer_03_Sum.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.csproj.AssemblyReference.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.AssemblyInfoInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.AssemblyInfo.cs
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\refint\Primer_03_Sum.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\Primer_03_Sum.genruntimeconfig.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_03_Sum\obj\Debug\net6.0\ref\Primer_03_Sum.dll
