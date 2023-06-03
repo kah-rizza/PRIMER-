@@ -1,0 +1,15 @@
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\bin\Debug\net6.0\Primer_01_HelloConsole.exe
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\bin\Debug\net6.0\Primer_01_HelloConsole.deps.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\bin\Debug\net6.0\Primer_01_HelloConsole.runtimeconfig.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\bin\Debug\net6.0\Primer_01_HelloConsole.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\bin\Debug\net6.0\Primer_01_HelloConsole.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.AssemblyInfo.cs
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\refint\Primer_01_HelloConsole.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\Primer_01_HelloConsole.genruntimeconfig.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_01_HelloConsole\obj\Debug\net6.0\ref\Primer_01_HelloConsole.dll
