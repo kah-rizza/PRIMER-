@@ -1,0 +1,15 @@
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\bin\Debug\net6.0\Primer_06_Base.exe
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\bin\Debug\net6.0\Primer_06_Base.deps.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\bin\Debug\net6.0\Primer_06_Base.runtimeconfig.json
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\bin\Debug\net6.0\Primer_06_Base.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\bin\Debug\net6.0\Primer_06_Base.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.csproj.AssemblyReference.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.AssemblyInfoInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.AssemblyInfo.cs
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.csproj.CoreCompileInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\refint\Primer_06_Base.dll
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\Primer_06_Base.genruntimeconfig.cache
+C:\Users\Nina\OneDrive\Рабочий стол\PRIMER\Primer_06_Base\obj\Debug\net6.0\ref\Primer_06_Base.dll
